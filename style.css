@@ -85,7 +85,8 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
 }
 .story
 {
-    height: 620px;
+    height: auto;
+    width:100%;
     
 }
 #outstory
