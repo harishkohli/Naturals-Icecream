@@ -268,3 +268,43 @@ button
 }
 
 
+@media (min-width:300px) and (max-width:505px)
+{
+    .icon
+    {
+        height: 60px;
+        width: 70px;
+        padding-bottom: 3px;
+       
+    }
+    .end
+  {
+    color: rgb(246, 239, 244);
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .spanele
+{
+    color: rgb(132, 13, 90);
+    font-size: 22px;
+    font-weight: bold;
+}
+.navbar-toggler
+{
+    height: 38px;
+    width: 60px;
+    margin-right: 20px;
+}
+.navbar-toggler-icon
+{
+    height: 30px;
+    width: 35px;
+}
+.funky
+{
+    display: flex;
+    flex-direction: column;
+}
+}
+
+
